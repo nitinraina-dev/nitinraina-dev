@@ -22,7 +22,7 @@
 <hr>
 <h2>👨🏻‍💻  A Little Bit About Me and My Interests</h2>
 
-yaml
+```yaml
 name: Nitin Raina
 located_in: Jammu, Jammu & Kashmir, INDIA
 current_job: Aspiring Full Stack Web Developer
@@ -49,6 +49,7 @@ technical_background:
 currently_learning: ["JavaScript and React Native"]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", Bike Riding, Gym]
+```
 
 <hr>
 <h2 align="center">🚀  Some Tools I Have Used and Learned</h2>
