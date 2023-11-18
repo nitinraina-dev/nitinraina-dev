@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/nitnraina_">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-256.png"/>
 </a>
-<a href="https://www.linkedin.com/in/nitin-kumar-4713a71a4//">
+<a href="https://www.linkedin.com/in/nitin-kumar//">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png"/>
 </a>
 <a href="https://www.twitter.com/nitinraina_">
@@ -25,7 +25,7 @@
 ```yaml
 name: Nitin Raina
 located_in: Jammu, Jammu & Kashmir, INDIA
-current_job: Aspiring Full Stack Web Developer
+current_job: MERN Stack Web Developer
 education:
   [
     "Self-Taught Developer and Designer",
@@ -43,10 +43,11 @@ fields_of_interests:
 technical_background:
   [
     "Intern - Apploys, Delhi , INDIA",
-    "Intern - Workfall, Singapore",
+    "Intern - IIT JAMMU, INDIA",
+
   ]
   
-currently_learning: ["JavaScript and React Native"]
+
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", Bike Riding, Gym]
 ```
