@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/nitnraina_">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-256.png"/>
 </a>
-<a href="https://www.linkedin.com/in/nitin-kumar//">
+<a href="https://www.linkedin.com/in/nitin-kumar/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png"/>
 </a>
 <a href="https://www.twitter.com/nitinraina_">
