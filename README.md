@@ -44,11 +44,12 @@ technical_background:
   [
     "Intern - Apploys, Delhi , INDIA",
     "Intern - IIT JAMMU, INDIA",
-
+  "Intern - Branding Elves,Jammu, INDIA",
+"Intern - Techible, Jammu , India"
   ]
   
 
-2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+2024 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", Bike Riding, Gym]
 ```
 
