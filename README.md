@@ -12,7 +12,7 @@
 <a href="https://www.twitter.com/nitinraina_">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png"/>
 </a>
-<a href="https://www.instagram.com/nitinraina_">
+<a href="https://codefornitin.blogspot.com/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/batman_hero_avatar_comics-256.png"/>
 </a>
 </div>
