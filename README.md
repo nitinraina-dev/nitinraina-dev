@@ -47,7 +47,6 @@ hobbies:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitinraina-dev&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinraina-dev&theme=tokyonight" height="180px" />
 </p>
 
 <p align="center">
