@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/nitnraina_">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram"/>
+    <img height="40" src="https://rb.gy/b8eqbw" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/nitin-raina/">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
@@ -60,7 +60,7 @@ hobbies:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitnraina-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitnraina&theme=radical" alt="GitHub Streak" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitnraina-dev&theme=radical" alt="GitHub Streak" height="160px" />
 </p>
 
 ---
@@ -79,12 +79,3 @@ hobbies:
   </a>
 </p>
 ```
-
-### Key Improvements:
-1. **Consistency**: Ensured consistent formatting for headings, links, and badges.
-2. **Alt Text**: Added `alt` attributes to all images for better accessibility.
-3. **Code Block**: Fixed the YAML code block formatting for better readability.
-4. **Visual Appeal**: Improved spacing and alignment for a cleaner look.
-5. **Grammar**: Ensured proper grammar and punctuation throughout the file.
-
-Feel free to customize it further to suit your style! 🚀
