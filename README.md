@@ -59,8 +59,8 @@ hobbies:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitnraina-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitnraina-dev&theme=radical" alt="GitHub Streak" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinraina-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinraina-dev&theme=radical" alt="GitHub Streak" height="160px" />
 </p>
 
 ---
