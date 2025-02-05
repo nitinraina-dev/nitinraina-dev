@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/nitnraina_">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram"/>
+    <img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg](https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-1583142.png?f=webp&w=512)" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/nitin-raina/">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
