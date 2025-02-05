@@ -1,5 +1,3 @@
-
-```md
 <h1 align="center">Hey Everyone! ✌</h1>
 <h3 align="center">🚀 Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
@@ -21,6 +19,7 @@
 ---
 
 ## 👨🏻‍💻 About Me
+
 ```yaml
 name: Nitin Raina
 location: Jammu, Jammu & Kashmir, India
@@ -44,35 +43,3 @@ hobbies:
   - "Gaming 🎮"
   - "Bike Riding 🏍️"
   - "Gym 🏋️"
-```
-
----
-
-## 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,cpp,java,python,git,github,vscode,figma,bootstrap" />
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitnraina&show_icons=true&theme=radical" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitnraina&theme=radical" height="160px" />
-</p>
-
----
-
-## 🎯 Let's Connect!
-<p align="center">
-  <a href="mailto:nitnraina@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nitin-raina/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/nitinraina_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-```
