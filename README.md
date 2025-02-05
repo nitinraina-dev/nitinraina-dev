@@ -60,7 +60,7 @@ hobbies:
 
 <p align="center">
   <a href="https://github.com/nitinraina-dev/your-top-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinraina-dev&repo=your-top-project&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinraina-dev&repo=mister-validator&theme=radical" />
   </a>
   <a href="https://github.com/nitinraina-dev/another-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitinraina-dev&repo=another-project&theme=radical" />
