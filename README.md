@@ -26,7 +26,7 @@ experience:
   - "Intern - IIT Jammu, India"
   - "Intern - Branding Elves, Jammu, India"
   - "Intern - Techible, Jammu, India"
-goals_2024: "Build 20+ projects & learn 5 new technologies"
+goals_2025: "Build 20+ projects & learn 5 new technologies"
 hobbies:
   - "Gaming 🎮"
   - "Bike Riding 🏍️"
